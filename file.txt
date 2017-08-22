@@ -1,0 +1,4 @@
+%LANG_title => I am a title page
+%LANG_zagolovok => I am zagolovok page
+%LANG_paragraf => I am pfragraf page
+
